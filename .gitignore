@@ -1,0 +1,12 @@
+﻿混剪配置.json
+loudnorm_cache.json
+ffmpeg.exe
+ffprobe.exe
+输出/
+程序备份*/
+程序错误日志.txt
+ui-preview*.png
+*.mp4
+.DS_Store
+dist/鲜剪/
+tools/ps2exe.ps1
